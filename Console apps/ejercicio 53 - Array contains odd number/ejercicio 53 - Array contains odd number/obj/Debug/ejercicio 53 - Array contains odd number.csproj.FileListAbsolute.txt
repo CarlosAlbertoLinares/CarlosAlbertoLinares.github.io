@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 53 - Array contains odd number\ejercicio 53 - Array contains odd number\bin\Debug\ejercicio 53 - Array contains odd number.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 53 - Array contains odd number\ejercicio 53 - Array contains odd number\obj\Debug\ejercicio 53 - Array contains odd number.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 53 - Array contains odd number\ejercicio 53 - Array contains odd number\bin\Debug\ejercicio 53 - Array contains odd number.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 53 - Array contains odd number\ejercicio 53 - Array contains odd number\bin\Debug\ejercicio 53 - Array contains odd number.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 53 - Array contains odd number\ejercicio 53 - Array contains odd number\obj\Debug\ejercicio 53 - Array contains odd number.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 53 - Array contains odd number\ejercicio 53 - Array contains odd number\obj\Debug\ejercicio 53 - Array contains odd number.pdb

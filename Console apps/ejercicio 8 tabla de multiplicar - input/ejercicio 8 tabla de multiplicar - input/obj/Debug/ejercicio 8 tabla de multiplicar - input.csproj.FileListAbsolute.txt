@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 8 tabla de multiplicar - input\ejercicio 8 tabla de multiplicar - input\bin\Debug\ejercicio 8 tabla de multiplicar - input.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 8 tabla de multiplicar - input\ejercicio 8 tabla de multiplicar - input\bin\Debug\ejercicio 8 tabla de multiplicar - input.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 8 tabla de multiplicar - input\ejercicio 8 tabla de multiplicar - input\bin\Debug\ejercicio 8 tabla de multiplicar - input.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 8 tabla de multiplicar - input\ejercicio 8 tabla de multiplicar - input\obj\Debug\ejercicio 8 tabla de multiplicar - input.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 8 tabla de multiplicar - input\ejercicio 8 tabla de multiplicar - input\obj\Debug\ejercicio 8 tabla de multiplicar - input.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 8 tabla de multiplicar - input\ejercicio 8 tabla de multiplicar - input\obj\Debug\ejercicio 8 tabla de multiplicar - input.pdb

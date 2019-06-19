@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 47 - sum of elements on array\ejercicio 47 - sum of elements on array\bin\Debug\ejercicio 47 - sum of elements on array.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 47 - sum of elements on array\ejercicio 47 - sum of elements on array\bin\Debug\ejercicio 47 - sum of elements on array.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 47 - sum of elements on array\ejercicio 47 - sum of elements on array\bin\Debug\ejercicio 47 - sum of elements on array.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 47 - sum of elements on array\ejercicio 47 - sum of elements on array\obj\Debug\ejercicio 47 - sum of elements on array.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 47 - sum of elements on array\ejercicio 47 - sum of elements on array\obj\Debug\ejercicio 47 - sum of elements on array.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 47 - sum of elements on array\ejercicio 47 - sum of elements on array\obj\Debug\ejercicio 47 - sum of elements on array.pdb

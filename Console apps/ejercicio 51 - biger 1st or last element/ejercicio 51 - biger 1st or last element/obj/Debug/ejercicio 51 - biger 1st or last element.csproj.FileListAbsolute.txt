@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 51 - biger 1st or last element\ejercicio 51 - biger 1st or last element\bin\Debug\ejercicio 51 - biger 1st or last element.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 51 - biger 1st or last element\ejercicio 51 - biger 1st or last element\bin\Debug\ejercicio 51 - biger 1st or last element.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 51 - biger 1st or last element\ejercicio 51 - biger 1st or last element\bin\Debug\ejercicio 51 - biger 1st or last element.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 51 - biger 1st or last element\ejercicio 51 - biger 1st or last element\obj\Debug\ejercicio 51 - biger 1st or last element.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 51 - biger 1st or last element\ejercicio 51 - biger 1st or last element\obj\Debug\ejercicio 51 - biger 1st or last element.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 51 - biger 1st or last element\ejercicio 51 - biger 1st or last element\obj\Debug\ejercicio 51 - biger 1st or last element.pdb

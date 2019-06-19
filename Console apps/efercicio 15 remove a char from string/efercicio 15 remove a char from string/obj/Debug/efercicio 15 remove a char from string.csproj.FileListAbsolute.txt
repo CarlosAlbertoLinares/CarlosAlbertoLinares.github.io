@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\efercicio 15 remove a char from string\efercicio 15 remove a char from string\bin\Debug\efercicio 15 remove a char from string.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\efercicio 15 remove a char from string\efercicio 15 remove a char from string\bin\Debug\efercicio 15 remove a char from string.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\efercicio 15 remove a char from string\efercicio 15 remove a char from string\bin\Debug\efercicio 15 remove a char from string.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\efercicio 15 remove a char from string\efercicio 15 remove a char from string\obj\Debug\efercicio 15 remove a char from string.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\efercicio 15 remove a char from string\efercicio 15 remove a char from string\obj\Debug\efercicio 15 remove a char from string.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\efercicio 15 remove a char from string\efercicio 15 remove a char from string\obj\Debug\efercicio 15 remove a char from string.pdb

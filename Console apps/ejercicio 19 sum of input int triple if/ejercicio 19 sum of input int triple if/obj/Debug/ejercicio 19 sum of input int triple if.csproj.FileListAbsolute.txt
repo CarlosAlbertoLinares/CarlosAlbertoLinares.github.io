@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 19 sum of input int triple if\ejercicio 19 sum of input int triple if\bin\Debug\ejercicio 19 sum of input int triple if.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 19 sum of input int triple if\ejercicio 19 sum of input int triple if\bin\Debug\ejercicio 19 sum of input int triple if.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 19 sum of input int triple if\ejercicio 19 sum of input int triple if\bin\Debug\ejercicio 19 sum of input int triple if.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 19 sum of input int triple if\ejercicio 19 sum of input int triple if\obj\Debug\ejercicio 19 sum of input int triple if.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 19 sum of input int triple if\ejercicio 19 sum of input int triple if\obj\Debug\ejercicio 19 sum of input int triple if.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 19 sum of input int triple if\ejercicio 19 sum of input int triple if\obj\Debug\ejercicio 19 sum of input int triple if.pdb

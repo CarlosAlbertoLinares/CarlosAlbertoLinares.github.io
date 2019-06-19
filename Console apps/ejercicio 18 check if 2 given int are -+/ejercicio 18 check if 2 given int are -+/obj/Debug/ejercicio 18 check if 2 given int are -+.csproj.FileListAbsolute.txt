@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 18 check if 2 given int are -+\ejercicio 18 check if 2 given int are -+\bin\Debug\ejercicio 18 check if 2 given int are -+.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 18 check if 2 given int are -+\ejercicio 18 check if 2 given int are -+\bin\Debug\ejercicio 18 check if 2 given int are -+.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 18 check if 2 given int are -+\ejercicio 18 check if 2 given int are -+\bin\Debug\ejercicio 18 check if 2 given int are -+.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 18 check if 2 given int are -+\ejercicio 18 check if 2 given int are -+\obj\Debug\ejercicio 18 check if 2 given int are -+.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 18 check if 2 given int are -+\ejercicio 18 check if 2 given int are -+\obj\Debug\ejercicio 18 check if 2 given int are -+.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 18 check if 2 given int are -+\ejercicio 18 check if 2 given int are -+\obj\Debug\ejercicio 18 check if 2 given int are -+.pdb

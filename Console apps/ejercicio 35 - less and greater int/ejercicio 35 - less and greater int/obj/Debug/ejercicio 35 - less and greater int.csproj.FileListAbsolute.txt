@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 35 - less and greater int\ejercicio 35 - less and greater int\bin\Debug\ejercicio 35 - less and greater int.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 35 - less and greater int\ejercicio 35 - less and greater int\bin\Debug\ejercicio 35 - less and greater int.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 35 - less and greater int\ejercicio 35 - less and greater int\bin\Debug\ejercicio 35 - less and greater int.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 35 - less and greater int\ejercicio 35 - less and greater int\obj\Debug\ejercicio 35 - less and greater int.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 35 - less and greater int\ejercicio 35 - less and greater int\obj\Debug\ejercicio 35 - less and greater int.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 35 - less and greater int\ejercicio 35 - less and greater int\obj\Debug\ejercicio 35 - less and greater int.pdb

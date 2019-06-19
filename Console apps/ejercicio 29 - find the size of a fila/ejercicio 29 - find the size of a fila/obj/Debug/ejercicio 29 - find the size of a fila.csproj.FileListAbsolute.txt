@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 29 - find the size of a fila\ejercicio 29 - find the size of a fila\bin\Debug\ejercicio 29 - find the size of a fila.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 29 - find the size of a fila\ejercicio 29 - find the size of a fila\bin\Debug\ejercicio 29 - find the size of a fila.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 29 - find the size of a fila\ejercicio 29 - find the size of a fila\bin\Debug\ejercicio 29 - find the size of a fila.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 29 - find the size of a fila\ejercicio 29 - find the size of a fila\obj\Debug\ejercicio 29 - find the size of a fila.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 29 - find the size of a fila\ejercicio 29 - find the size of a fila\obj\Debug\ejercicio 29 - find the size of a fila.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 29 - find the size of a fila\ejercicio 29 - find the size of a fila\obj\Debug\ejercicio 29 - find the size of a fila.pdb

@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 27 - sum of digits of an int3\ejercicio 27 - sum of digits of an int3\bin\Debug\ejercicio 27 - sum of digits of an int3.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 27 - sum of digits of an int3\ejercicio 27 - sum of digits of an int3\bin\Debug\ejercicio 27 - sum of digits of an int3.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 27 - sum of digits of an int3\ejercicio 27 - sum of digits of an int3\bin\Debug\ejercicio 27 - sum of digits of an int3.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 27 - sum of digits of an int3\ejercicio 27 - sum of digits of an int3\obj\Debug\ejercicio 27 - sum of digits of an int3.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 27 - sum of digits of an int3\ejercicio 27 - sum of digits of an int3\obj\Debug\ejercicio 27 - sum of digits of an int3.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 27 - sum of digits of an int3\ejercicio 27 - sum of digits of an int3\obj\Debug\ejercicio 27 - sum of digits of an int3.pdb

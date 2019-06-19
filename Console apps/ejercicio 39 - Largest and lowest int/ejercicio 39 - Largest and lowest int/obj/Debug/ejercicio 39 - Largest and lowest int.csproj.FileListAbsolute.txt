@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 39 - Largest and lowest int\ejercicio 39 - Largest and lowest int\bin\Debug\ejercicio 39 - Largest and lowest int.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 39 - Largest and lowest int\ejercicio 39 - Largest and lowest int\obj\Debug\ejercicio 39 - Largest and lowest int.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 39 - Largest and lowest int\ejercicio 39 - Largest and lowest int\bin\Debug\ejercicio 39 - Largest and lowest int.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 39 - Largest and lowest int\ejercicio 39 - Largest and lowest int\bin\Debug\ejercicio 39 - Largest and lowest int.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 39 - Largest and lowest int\ejercicio 39 - Largest and lowest int\obj\Debug\ejercicio 39 - Largest and lowest int.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 39 - Largest and lowest int\ejercicio 39 - Largest and lowest int\obj\Debug\ejercicio 39 - Largest and lowest int.pdb

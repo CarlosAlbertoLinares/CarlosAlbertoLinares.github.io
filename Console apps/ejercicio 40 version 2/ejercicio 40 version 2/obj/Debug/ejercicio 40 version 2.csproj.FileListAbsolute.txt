@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 40 version 2\ejercicio 40 version 2\bin\Debug\ejercicio 40 version 2.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 40 version 2\ejercicio 40 version 2\bin\Debug\ejercicio 40 version 2.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 40 version 2\ejercicio 40 version 2\bin\Debug\ejercicio 40 version 2.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 40 version 2\ejercicio 40 version 2\obj\Debug\ejercicio 40 version 2.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 40 version 2\ejercicio 40 version 2\obj\Debug\ejercicio 40 version 2.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 40 version 2\ejercicio 40 version 2\obj\Debug\ejercicio 40 version 2.pdb

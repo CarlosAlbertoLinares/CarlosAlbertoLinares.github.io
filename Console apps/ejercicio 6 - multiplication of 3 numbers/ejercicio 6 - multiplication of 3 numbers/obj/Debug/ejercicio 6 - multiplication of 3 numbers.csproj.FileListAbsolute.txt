@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 6 - multiplication of 3 numbers\ejercicio 6 - multiplication of 3 numbers\bin\Debug\ejercicio 6 - multiplication of 3 numbers.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 6 - multiplication of 3 numbers\ejercicio 6 - multiplication of 3 numbers\bin\Debug\ejercicio 6 - multiplication of 3 numbers.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 6 - multiplication of 3 numbers\ejercicio 6 - multiplication of 3 numbers\bin\Debug\ejercicio 6 - multiplication of 3 numbers.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 6 - multiplication of 3 numbers\ejercicio 6 - multiplication of 3 numbers\obj\Debug\ejercicio 6 - multiplication of 3 numbers.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 6 - multiplication of 3 numbers\ejercicio 6 - multiplication of 3 numbers\obj\Debug\ejercicio 6 - multiplication of 3 numbers.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 6 - multiplication of 3 numbers\ejercicio 6 - multiplication of 3 numbers\obj\Debug\ejercicio 6 - multiplication of 3 numbers.pdb

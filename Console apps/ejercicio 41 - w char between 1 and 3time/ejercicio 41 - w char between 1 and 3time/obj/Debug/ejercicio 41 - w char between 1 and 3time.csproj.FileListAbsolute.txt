@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 41 - w char between 1 and 3time\ejercicio 41 - w char between 1 and 3time\bin\Debug\ejercicio 41 - w char between 1 and 3time.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 41 - w char between 1 and 3time\ejercicio 41 - w char between 1 and 3time\bin\Debug\ejercicio 41 - w char between 1 and 3time.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 41 - w char between 1 and 3time\ejercicio 41 - w char between 1 and 3time\bin\Debug\ejercicio 41 - w char between 1 and 3time.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 41 - w char between 1 and 3time\ejercicio 41 - w char between 1 and 3time\obj\Debug\ejercicio 41 - w char between 1 and 3time.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 41 - w char between 1 and 3time\ejercicio 41 - w char between 1 and 3time\obj\Debug\ejercicio 41 - w char between 1 and 3time.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 41 - w char between 1 and 3time\ejercicio 41 - w char between 1 and 3time\obj\Debug\ejercicio 41 - w char between 1 and 3time.pdb

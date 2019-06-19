@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 21 sum of 2 input int with if\ejercicio 21 sum of 2 input int with if\bin\Debug\ejercicio 21 sum of 2 input int with if.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 21 sum of 2 input int with if\ejercicio 21 sum of 2 input int with if\bin\Debug\ejercicio 21 sum of 2 input int with if.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 21 sum of 2 input int with if\ejercicio 21 sum of 2 input int with if\bin\Debug\ejercicio 21 sum of 2 input int with if.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 21 sum of 2 input int with if\ejercicio 21 sum of 2 input int with if\obj\Debug\ejercicio 21 sum of 2 input int with if.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 21 sum of 2 input int with if\ejercicio 21 sum of 2 input int with if\obj\Debug\ejercicio 21 sum of 2 input int with if.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 21 sum of 2 input int with if\ejercicio 21 sum of 2 input int with if\obj\Debug\ejercicio 21 sum of 2 input int with if.pdb

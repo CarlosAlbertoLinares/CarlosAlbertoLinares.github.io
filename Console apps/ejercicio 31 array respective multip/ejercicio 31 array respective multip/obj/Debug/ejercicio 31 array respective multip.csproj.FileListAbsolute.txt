@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 31 array respective multip\ejercicio 31 array respective multip\bin\Debug\ejercicio 31 array respective multip.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 31 array respective multip\ejercicio 31 array respective multip\obj\Debug\ejercicio 31 array respective multip.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 31 array respective multip\ejercicio 31 array respective multip\obj\Debug\ejercicio 31 array respective multip.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 31 array respective multip\ejercicio 31 array respective multip\bin\Debug\ejercicio 31 array respective multip.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 31 array respective multip\ejercicio 31 array respective multip\bin\Debug\ejercicio 31 array respective multip.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 31 array respective multip\ejercicio 31 array respective multip\obj\Debug\ejercicio 31 array respective multip.csprojResolveAssemblyReference.cache

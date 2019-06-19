@@ -1,0 +1,5 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 52 - middle elements new array\ejercicio 52 - middle elements new array\bin\Debug\ejercicio 52 - middle elements new array.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 52 - middle elements new array\ejercicio 52 - middle elements new array\bin\Debug\ejercicio 52 - middle elements new array.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 52 - middle elements new array\ejercicio 52 - middle elements new array\bin\Debug\ejercicio 52 - middle elements new array.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 52 - middle elements new array\ejercicio 52 - middle elements new array\obj\Debug\ejercicio 52 - middle elements new array.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 52 - middle elements new array\ejercicio 52 - middle elements new array\obj\Debug\ejercicio 52 - middle elements new array.pdb

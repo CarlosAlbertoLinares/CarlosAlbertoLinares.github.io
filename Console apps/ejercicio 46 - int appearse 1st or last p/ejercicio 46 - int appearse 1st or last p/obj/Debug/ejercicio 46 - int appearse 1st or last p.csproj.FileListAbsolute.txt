@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 46 - int appearse 1st or last p\ejercicio 46 - int appearse 1st or last p\bin\Debug\ejercicio 46 - int appearse 1st or last p.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 46 - int appearse 1st or last p\ejercicio 46 - int appearse 1st or last p\bin\Debug\ejercicio 46 - int appearse 1st or last p.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 46 - int appearse 1st or last p\ejercicio 46 - int appearse 1st or last p\bin\Debug\ejercicio 46 - int appearse 1st or last p.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 46 - int appearse 1st or last p\ejercicio 46 - int appearse 1st or last p\obj\Debug\ejercicio 46 - int appearse 1st or last p.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 46 - int appearse 1st or last p\ejercicio 46 - int appearse 1st or last p\obj\Debug\ejercicio 46 - int appearse 1st or last p.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 46 - int appearse 1st or last p\ejercicio 46 - int appearse 1st or last p\obj\Debug\ejercicio 46 - int appearse 1st or last p.pdb

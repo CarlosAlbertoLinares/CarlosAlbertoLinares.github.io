@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 59 - strickly incrising sequenc\ejercicio 59 - strickly incrising sequenc\bin\Debug\ejercicio 59 - strickly incrising sequenc.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 59 - strickly incrising sequenc\ejercicio 59 - strickly incrising sequenc\bin\Debug\ejercicio 59 - strickly incrising sequenc.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 59 - strickly incrising sequenc\ejercicio 59 - strickly incrising sequenc\bin\Debug\ejercicio 59 - strickly incrising sequenc.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 59 - strickly incrising sequenc\ejercicio 59 - strickly incrising sequenc\obj\Debug\ejercicio 59 - strickly incrising sequenc.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 59 - strickly incrising sequenc\ejercicio 59 - strickly incrising sequenc\obj\Debug\ejercicio 59 - strickly incrising sequenc.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 59 - strickly incrising sequenc\ejercicio 59 - strickly incrising sequenc\obj\Debug\ejercicio 59 - strickly incrising sequenc.pdb

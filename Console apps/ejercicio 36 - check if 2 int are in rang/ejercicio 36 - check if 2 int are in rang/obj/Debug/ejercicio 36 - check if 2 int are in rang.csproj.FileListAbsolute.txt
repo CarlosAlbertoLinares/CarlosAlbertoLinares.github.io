@@ -1,0 +1,5 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 36 - check if 2 int are in rang\ejercicio 36 - check if 2 int are in rang\bin\Debug\ejercicio 36 - check if 2 int are in rang.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 36 - check if 2 int are in rang\ejercicio 36 - check if 2 int are in rang\bin\Debug\ejercicio 36 - check if 2 int are in rang.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 36 - check if 2 int are in rang\ejercicio 36 - check if 2 int are in rang\bin\Debug\ejercicio 36 - check if 2 int are in rang.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 36 - check if 2 int are in rang\ejercicio 36 - check if 2 int are in rang\obj\Debug\ejercicio 36 - check if 2 int are in rang.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 36 - check if 2 int are in rang\ejercicio 36 - check if 2 int are in rang\obj\Debug\ejercicio 36 - check if 2 int are in rang.pdb

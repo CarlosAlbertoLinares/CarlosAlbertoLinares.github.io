@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 13 covert From Celsius to K_F\ejercicio 13 covert From Celsius to K_F\bin\Debug\ejercicio 13 covert From Celsius to K_F.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 13 covert From Celsius to K_F\ejercicio 13 covert From Celsius to K_F\obj\Debug\ejercicio 13 covert From Celsius to K_F.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 13 covert From Celsius to K_F\ejercicio 13 covert From Celsius to K_F\bin\Debug\ejercicio 13 covert From Celsius to K_F.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 13 covert From Celsius to K_F\ejercicio 13 covert From Celsius to K_F\bin\Debug\ejercicio 13 covert From Celsius to K_F.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 13 covert From Celsius to K_F\ejercicio 13 covert From Celsius to K_F\obj\Debug\ejercicio 13 covert From Celsius to K_F.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 13 covert From Celsius to K_F\ejercicio 13 covert From Celsius to K_F\obj\Debug\ejercicio 13 covert From Celsius to K_F.pdb

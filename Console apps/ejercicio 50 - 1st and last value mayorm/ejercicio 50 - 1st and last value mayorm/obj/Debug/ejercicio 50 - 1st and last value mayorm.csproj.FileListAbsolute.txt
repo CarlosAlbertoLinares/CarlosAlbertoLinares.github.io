@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 50 - 1st and last value mayorm\ejercicio 50 - 1st and last value mayorm\bin\Debug\ejercicio 50 - 1st and last value mayorm.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 50 - 1st and last value mayorm\ejercicio 50 - 1st and last value mayorm\bin\Debug\ejercicio 50 - 1st and last value mayorm.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 50 - 1st and last value mayorm\ejercicio 50 - 1st and last value mayorm\bin\Debug\ejercicio 50 - 1st and last value mayorm.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 50 - 1st and last value mayorm\ejercicio 50 - 1st and last value mayorm\obj\Debug\ejercicio 50 - 1st and last value mayorm.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 50 - 1st and last value mayorm\ejercicio 50 - 1st and last value mayorm\obj\Debug\ejercicio 50 - 1st and last value mayorm.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 50 - 1st and last value mayorm\ejercicio 50 - 1st and last value mayorm\obj\Debug\ejercicio 50 - 1st and last value mayorm.pdb

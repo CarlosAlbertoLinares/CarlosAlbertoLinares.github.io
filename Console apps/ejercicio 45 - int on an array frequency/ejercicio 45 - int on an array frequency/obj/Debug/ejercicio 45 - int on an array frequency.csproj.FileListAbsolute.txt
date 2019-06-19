@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 45 - int on an array frequency\ejercicio 45 - int on an array frequency\bin\Debug\ejercicio 45 - int on an array frequency.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 45 - int on an array frequency\ejercicio 45 - int on an array frequency\bin\Debug\ejercicio 45 - int on an array frequency.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 45 - int on an array frequency\ejercicio 45 - int on an array frequency\bin\Debug\ejercicio 45 - int on an array frequency.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 45 - int on an array frequency\ejercicio 45 - int on an array frequency\obj\Debug\ejercicio 45 - int on an array frequency.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 45 - int on an array frequency\ejercicio 45 - int on an array frequency\obj\Debug\ejercicio 45 - int on an array frequency.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 45 - int on an array frequency\ejercicio 45 - int on an array frequency\obj\Debug\ejercicio 45 - int on an array frequency.pdb

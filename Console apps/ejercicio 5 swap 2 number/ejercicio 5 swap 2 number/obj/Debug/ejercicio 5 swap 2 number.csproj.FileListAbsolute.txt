@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 5 swap 2 number\ejercicio 5 swap 2 number\bin\Debug\ejercicio 5 swap 2 number.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 5 swap 2 number\ejercicio 5 swap 2 number\obj\Debug\ejercicio 5 swap 2 number.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 5 swap 2 number\ejercicio 5 swap 2 number\bin\Debug\ejercicio 5 swap 2 number.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 5 swap 2 number\ejercicio 5 swap 2 number\bin\Debug\ejercicio 5 swap 2 number.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 5 swap 2 number\ejercicio 5 swap 2 number\obj\Debug\ejercicio 5 swap 2 number.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 5 swap 2 number\ejercicio 5 swap 2 number\obj\Debug\ejercicio 5 swap 2 number.pdb

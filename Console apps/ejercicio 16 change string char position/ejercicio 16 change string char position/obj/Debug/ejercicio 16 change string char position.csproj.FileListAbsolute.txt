@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 16 change string char position\ejercicio 16 change string char position\bin\Debug\ejercicio 16 change string char position.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 16 change string char position\ejercicio 16 change string char position\obj\Debug\ejercicio 16 change string char position.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 16 change string char position\ejercicio 16 change string char position\bin\Debug\ejercicio 16 change string char position.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 16 change string char position\ejercicio 16 change string char position\bin\Debug\ejercicio 16 change string char position.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 16 change string char position\ejercicio 16 change string char position\obj\Debug\ejercicio 16 change string char position.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 16 change string char position\ejercicio 16 change string char position\obj\Debug\ejercicio 16 change string char position.pdb

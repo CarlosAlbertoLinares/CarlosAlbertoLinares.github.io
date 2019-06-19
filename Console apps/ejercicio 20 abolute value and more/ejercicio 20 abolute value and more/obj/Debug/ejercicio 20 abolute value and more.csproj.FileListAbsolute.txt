@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 20 abolute value and more\ejercicio 20 abolute value and more\bin\Debug\ejercicio 20 abolute value and more.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 20 abolute value and more\ejercicio 20 abolute value and more\bin\Debug\ejercicio 20 abolute value and more.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 20 abolute value and more\ejercicio 20 abolute value and more\bin\Debug\ejercicio 20 abolute value and more.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 20 abolute value and more\ejercicio 20 abolute value and more\obj\Debug\ejercicio 20 abolute value and more.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 20 abolute value and more\ejercicio 20 abolute value and more\obj\Debug\ejercicio 20 abolute value and more.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 20 abolute value and more\ejercicio 20 abolute value and more\obj\Debug\ejercicio 20 abolute value and more.pdb

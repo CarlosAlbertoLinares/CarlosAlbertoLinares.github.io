@@ -1,0 +1,5 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 25 - print off int from 1 to 99\ejercicio 25 - print off int from 1 to 99\bin\Debug\ejercicio 25 - print off int from 1 to 99.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 25 - print off int from 1 to 99\ejercicio 25 - print off int from 1 to 99\bin\Debug\ejercicio 25 - print off int from 1 to 99.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 25 - print off int from 1 to 99\ejercicio 25 - print off int from 1 to 99\bin\Debug\ejercicio 25 - print off int from 1 to 99.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 25 - print off int from 1 to 99\ejercicio 25 - print off int from 1 to 99\obj\Debug\ejercicio 25 - print off int from 1 to 99.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 25 - print off int from 1 to 99\ejercicio 25 - print off int from 1 to 99\obj\Debug\ejercicio 25 - print off int from 1 to 99.pdb

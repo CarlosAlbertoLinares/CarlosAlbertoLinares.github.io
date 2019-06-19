@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 23 - string to lowercase\ejercicio 23 - string to lowercase\bin\Debug\ejercicio 23 - string to lowercase.exe.config
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 23 - string to lowercase\ejercicio 23 - string to lowercase\bin\Debug\ejercicio 23 - string to lowercase.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 23 - string to lowercase\ejercicio 23 - string to lowercase\bin\Debug\ejercicio 23 - string to lowercase.pdb
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 23 - string to lowercase\ejercicio 23 - string to lowercase\obj\Debug\ejercicio 23 - string to lowercase.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 23 - string to lowercase\ejercicio 23 - string to lowercase\obj\Debug\ejercicio 23 - string to lowercase.exe
+C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 23 - string to lowercase\ejercicio 23 - string to lowercase\obj\Debug\ejercicio 23 - string to lowercase.pdb
