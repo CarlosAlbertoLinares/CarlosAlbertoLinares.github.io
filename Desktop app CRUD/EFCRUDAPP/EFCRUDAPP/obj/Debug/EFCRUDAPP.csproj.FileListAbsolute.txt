@@ -1,0 +1,13 @@
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.exe.config
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.exe
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.pdb
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.Form1.resources
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.Properties.Resources.resources
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.exe
+C:\Users\Carlos\Desktop\training\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.pdb
