@@ -7,6 +7,9 @@ import HTML5Backend from 'react-dnd-html5-backend';
 import {DragDropContext} from 'react-dnd';
 import Problem from './Problem';
 
+//  El programa contiene la "instruction", 1 problema y las opciones. Aún no me podido lograr que al darle click a un item "source" vaya directo 
+// al target donde se visualiza la respuesta. Tampoco output en json.
+
 
 class App extends Component{
 
