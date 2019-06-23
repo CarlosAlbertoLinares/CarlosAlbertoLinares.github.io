@@ -5,6 +5,7 @@ problem: [4,5],
 options: [9,6,8,10],
 result:0
 }
+var x = 0; // utilizado como index para navegar entre el contenido de los elementos del objeto sumExercise.
 
 var anwerOrInstructionReturn = () =>{
 
