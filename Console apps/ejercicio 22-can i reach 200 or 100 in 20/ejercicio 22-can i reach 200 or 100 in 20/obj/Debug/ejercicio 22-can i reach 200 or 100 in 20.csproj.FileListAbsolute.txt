@@ -4,3 +4,6 @@ C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 22-can i reach 200
 C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 22-can i reach 200 or 100 in 20\ejercicio 22-can i reach 200 or 100 in 20\obj\Debug\ejercicio 22-can i reach 200 or 100 in 20.csprojResolveAssemblyReference.cache
 C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 22-can i reach 200 or 100 in 20\ejercicio 22-can i reach 200 or 100 in 20\obj\Debug\ejercicio 22-can i reach 200 or 100 in 20.exe
 C:\Users\Carlos\Desktop\training\ejerciciosBeginner\ejercicio 22-can i reach 200 or 100 in 20\ejercicio 22-can i reach 200 or 100 in 20\obj\Debug\ejercicio 22-can i reach 200 or 100 in 20.pdb
+C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\ejercicio 22-can i reach 200 or 100 in 20\ejercicio 22-can i reach 200 or 100 in 20\bin\Debug\ejercicio 22-can i reach 200 or 100 in 20.exe.config
+C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\ejercicio 22-can i reach 200 or 100 in 20\ejercicio 22-can i reach 200 or 100 in 20\obj\Debug\ejercicio 22-can i reach 200 or 100 in 20.exe
+C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\ejercicio 22-can i reach 200 or 100 in 20\ejercicio 22-can i reach 200 or 100 in 20\obj\Debug\ejercicio 22-can i reach 200 or 100 in 20.pdb

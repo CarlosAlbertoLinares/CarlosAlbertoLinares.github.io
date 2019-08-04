@@ -20,11 +20,21 @@ namespace ejercicio_46___int_appearse_1st_or_last_p
             int[] array = new int[arraySize];
 
             Console.WriteLine("Especifique los elementos del arreglo en cada posicion del index: ");
-            for(int y = 0;y<array.Length;y++)
+
+            public static Array[] filler (int[] array) 
+            {
+            int [] array2 = array;
+
+             for (int y = 0; y<array.Length;y++)
             {
 
-                array[y] = Int32.Parse(Console.ReadLine());
+                array2[y] = Int32.Parse(Console.ReadLine());
             }
+            return array;
+}
+}
+
+           
 
          
 

@@ -18,7 +18,7 @@ namespace ejercicio_45___int_on_an_array_frequency
             Console.WriteLine("Bienvenido al programa que cuenta las ocurrencias de un entero en un array de el mismo tipo.");
             int[] array = { 5, 5, 2, 4, 4, 5, 4, 6 };
             int count = 0;
-            Console.WriteLine("Ingrese el numero que desea contar en el array");
+            Console.WriteLine($"Ingrese el numero que desea contar en el array {array.ToString()} ");
             Console.WriteLine("Favor de ingresar el número que quiere contar en el array");
             int[] specificNumber = { Int32.Parse(Console.ReadLine()) } ;
 

@@ -23,7 +23,7 @@ True
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Ingrese la palabra a filtrar en el string");
+            Console.WriteLine("Ingrese la palabra a filtrar en el string(oracion)");
             string word = Console.ReadLine();
 
 

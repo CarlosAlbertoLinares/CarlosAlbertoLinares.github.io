@@ -13,11 +13,14 @@ Array1: [1, 2, 8]
     que  cada uno se mueva a la izquierda un ligar
     */
 
+     
+
     class Program
     {
 
         static void Main(string[] args)
         {
+            Console.WriteLine("**Bienvenidos al programa que invierte un arreglo a nivel de orden**\n");
 
 
             int[] array1 = { 1, 2, 8 };
@@ -34,11 +37,29 @@ Array1: [1, 2, 8]
                     array2[x] = array1[x + 1];
 
             }
+
+            Console.Write("El array original es: ");
+
             Console.Write("[ ");
-            foreach (int o in array2)
+
+
+            foreach (int number in array1)
+            {
+
+                Console.Write(number + " ");
+
+
+            }
+            Console.Write("]");
+            Console.Write("\nEl array invertido es: ");
+
+            Console.Write("[ ");
+
+
+            foreach (int number2 in array2)
                 {
                 
-                Console.Write(o +" ");
+                Console.Write(number2 +" ");
                
 
             }
