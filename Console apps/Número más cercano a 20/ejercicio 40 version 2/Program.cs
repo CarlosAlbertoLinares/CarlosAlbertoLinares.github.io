@@ -11,8 +11,9 @@ namespace ejercicio_40_version_2
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Ingrese el primer número(firstXPoint)");
             double firstXPoint = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese el segundo número(secondXPoint)");
             double secondXPoint = Convert.ToDouble(Console.ReadLine());
 
             // double result = Math.Min(Pointdistance(firstXPoint), Pointdistance(secondXPoint));

@@ -16,3 +16,6 @@ C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\Dis
 C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\Número más cercano a 20\ejercicio 40 version 2\bin\Debug\ejercicio 40 version 2.exe.config
 C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\Número más cercano a 20\ejercicio 40 version 2\obj\Debug\ejercicio 40 version 2.exe
 C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\Número más cercano a 20\ejercicio 40 version 2\obj\Debug\ejercicio 40 version 2.pdb
+C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\Número más cercano a 20\ejercicio 40 version 2\bin\Debug\ejercicio 40 version 2.exe
+C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\Número más cercano a 20\ejercicio 40 version 2\bin\Debug\ejercicio 40 version 2.pdb
+C:\Users\Carlos\Documents\GitHub\CarlosAlbertoLinares.github.io\Console apps\Número más cercano a 20\ejercicio 40 version 2\obj\Debug\ejercicio 40 version 2.csprojResolveAssemblyReference.cache
