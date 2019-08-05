@@ -21,17 +21,21 @@ namespace ejercicio_40_version_2
             int cero = 0;
             if (firstXPoint == secondXPoint)
                 Console.WriteLine("Como firstXPoint es igual a secondXPoint se retorna: " + cero);
-
-            if(Pointdistance(firstXPoint) < Pointdistance(secondXPoint))
-                {
-                Console.WriteLine($"El numero mas cercano a 20 entre {firstXPoint} y {secondXPoint} es: {firstXPoint}");
-            }
             else
             {
+                if (Pointdistance(firstXPoint) < Pointdistance(secondXPoint))
+                {
+                    Console.WriteLine($"El numero mas cercano a 20 entre {firstXPoint} y {secondXPoint} es: {firstXPoint}");
+                }
+                else
+                {
 
-                Console.WriteLine($"El numero mas cercano a 20 entre {firstXPoint} y {secondXPoint} es: {secondXPoint} ");
+                    Console.WriteLine($"El numero mas cercano a 20 entre {firstXPoint} y {secondXPoint} es: {secondXPoint} ");
+                }
+
             }
-            
+
+
 
         }
 
